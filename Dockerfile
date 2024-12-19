@@ -15,4 +15,11 @@ COPY . .
 
 RUN hugo --gc --minify
 
-FROM caddy:2.9-alpine
+RUN mv public 
+
+FROM nginx AS exec
+
+ENV NGINX_HOST="ed-henrique.com"
+ENV NGINX_PORT=80
+
+COPY --from=builder /app/public /usr/share/nginx/html
