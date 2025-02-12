@@ -12,6 +12,7 @@ title = 'Cv'
 
 Roraima, Brazil
 
+- [GitHub: ed-henrique](https://github.com/ed-henrique)
 - [LinkedIn: in/ed-hfm](https://linkedin.com/in/ed-hfm)
 - [Email: edu.hen.fm@gmail.com](mailto:edu.hen.fm@gmail.com)
 - [ORCID: orcid.org/0009-0008-7340-976X](https://orcid.org/0009-0008-7340-976X)
@@ -38,6 +39,17 @@ Roraima, Brazil
 
 ---
 
+## Freelance Services
+
+### HGR Connect - Gestor de Leitos
+
+**Only Developer**
+
+- Created system from bottom-up to track all needed metrics for the hospital.
+- *Roraima, Brazil* | Nov/2024 - Feb/2025
+
+---
+
 ## Skills
 
 ### Programming Languages
@@ -61,8 +73,13 @@ Roraima, Brazil
 
 ### DevOps Tools
 
-- Git, Docker, Kubernetes, Bash, GitHub Actions
-- TrueNAS
+- Git, Docker, Kubernetes, Bash, GitHub Actions, Coolify
+
+---
+
+### Automation Tools
+
+- Prefect, Selenium
 
 ---
 
@@ -88,7 +105,7 @@ Roraima, Brazil
 
 ---
 
-### Degree in Mathematics
+### Licenciate Degree in Mathematics
 
 **Faculdade Única**
 
